@@ -1,0 +1,27 @@
+.education{
+  font-weight: bold;
+  color: white;
+  background-color: red;
+}
+
+.human{
+  color: rgb(42, 207, 42);
+}
+
+.aboutme{
+  font-weight: bolder;
+  color: red;
+  background-color: blue;
+}
+
+.work{
+  font-weight: bold;
+  color: blue;
+}
+
+.winning {
+  font-weight: bold;
+  font-style: italic;
+}
+
+  
